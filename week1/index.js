@@ -1,9 +1,18 @@
-// variable var & let
+// Variable JavaScript (var, let, & const)
+
+// Variable var
 var name = "Hello Anak Baik"
 console.log(name);
 
+// Variable let
 let hobby = "GAME!!!"
 console.log(hobby);
+
+// Variable const
+const phi = "asw"
+phi = "tai"  //Assignment to constant variable
+
+console.log(phi);
 
 
 
@@ -13,8 +22,7 @@ for (let i = 0; i<5; i++){
 }
 
 
-
-// LOOPING WHILE
+// looping While
 let counter = 0
 while (counter < 10){
     console.log(counter)
@@ -23,7 +31,9 @@ while (counter < 10){
 
 
 
-// Function
+// Pengkodisian Switch Case & If Else
+
+// Pengkondisian SwitchCase (Function)
 function sayHello (name){
     switch(name){
         case "Zulfan":
@@ -40,7 +50,7 @@ console.log(sayHello("Aqna"));
 
 
 
-// if else
+// Pengkondisian If Else
 const exampValue = 90
 if (exampValue > 80){
     console.info("good");
