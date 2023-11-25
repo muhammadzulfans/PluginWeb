@@ -9,8 +9,8 @@ let hobby = "GAME!!!"
 console.log(hobby);
 
 // Variable const
-const phi = "asw"
-phi = "tai"  //Assignment to constant variable
+const phi = "3.14"
+//phi = "3.14"     //Assignment to constant variable
 
 console.log(phi);
 
