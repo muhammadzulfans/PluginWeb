@@ -15,3 +15,21 @@ function segitiga(panjang:number) {
 
 console.log(segitiga(7));
 
+
+
+// jawaban soal ujian chunin
+function nama(a: string, b: string) {
+    let fisrtname: string;
+    let lastname: string;
+    let fullname: string;
+
+    fisrtname = a;
+    lastname = b;
+
+    fullname = fisrtname + lastname;
+
+    return fullname;
+}
+console.log(nama("anak", "baik"));
+
+

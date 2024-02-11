@@ -14,3 +14,20 @@ function segitiga(panjang) {
     return hasil;
 }
 console.log(segitiga(9));
+
+
+
+
+
+//cetak kata plugin
+function plugin(number) {
+    for (let i = 1; i <= number; i++) {
+      let result = "";
+      if (i % 3 === 0) {
+        result += "plug";
+      }  
+      console.log(result);
+    }
+  }
+  
+  plugin(3)

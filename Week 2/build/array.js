@@ -55,6 +55,7 @@ var result = {
         }
     ]
 };
+
 var keyboard = {
     idCart: "C1",
     dateOrdered: new Date("2023-12-01"),

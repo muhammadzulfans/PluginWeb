@@ -51,11 +51,11 @@ console.log(sayHello("Aqna"));
 
 
 // Pengkondisian If Else
-const exampValue = 90
-if (exampValue > 80){
-    console.info("good");
-}else if(exampValue > 60){
-    console.info("Not Bad")
-}else{
-    console.info("Try Again")
+const nilai = 90;
+
+if (nilai > 80) {
+    console.log("good");
+}else (nilai > 60); {
+    console.log("Not Bad")
 }
+console.log(nilai);
