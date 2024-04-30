@@ -103,7 +103,7 @@ let result : Addres = {
 
 
 
-// Nested Object to Object
+// Nested Object off Object
 interface CartItem {
     id : string
     name : string
